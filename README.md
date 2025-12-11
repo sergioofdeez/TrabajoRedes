@@ -4,7 +4,7 @@
 Rubén Castro Álvarez <br>
 María Benedicta Fernández Rodríguez <br>
 Mireia Ramón Verdera <br>
-Sergio Fernández <br>
+Sergio Fernández Buceta <br>
 
 ---
 
@@ -51,7 +51,7 @@ Todo se muestra en formato limpio y ordenado. <br>
 
 Python <br>
 
-requests (librería para peticiones HTTP) <br>
+Requests (librería para peticiones HTTP) <br>
 
 Spoonacular API <br>
 
